@@ -2,7 +2,21 @@
     background-color: #8c00b2;
     border-bottom: 0.2rem solid #fa5656;
 
-    a {
-        color: #ffffff; 
+    a{
+      color:#FFF;
     }
+    
+    a:hover, a:active{
+      color: #000;
+      font-weight: 500;
+    }
+
+    .dropDownColor{
+      color: #878a87;
+    }
+    
+      &__search-group {
+        width: 28rem;
+      }
+    
 }

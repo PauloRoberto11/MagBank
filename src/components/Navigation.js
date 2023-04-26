@@ -26,8 +26,8 @@ return (
             <ButtonGroup>
               <Button variant="outline-light">
               <NavDropdown title="Acessar minha conta" id="navbarScrollingDropdown">
-                <NavDropdown.Item href="#action4">Pessoa Física</NavDropdown.Item>
-                <NavDropdown.Item href="#action5">Pessoa Jurídica</NavDropdown.Item>
+                <NavDropdown.Item className='dropDownColor' href="#action4">Pessoa Física</NavDropdown.Item>
+                <NavDropdown.Item className='dropDownColor' href="#action5">Pessoa Jurídica</NavDropdown.Item>
               </NavDropdown>
               </Button>
 
