@@ -6,22 +6,22 @@ const posts = [
     {
         id: 1,
         image: image1,
-        title: 'Mauris ac lacus convallis1',
-        description: 'Aliquam vitae velit eu felis laoreet ultricies ac ac nisl. Aenean in dolor ipsum. Donec quam est, rutrum non fermentum dictum, vehicula id dolor.',
+        title: 'MagBank! na palma da sua mão',
+        description: 'Pelo app, você resolve tudo sem sair de casa. Veja como aproveitar ao máximo os benefícios do next!',
         action: 'Peça já'
     },
     {
         id: 2,
         image: image2,
-        title: 'Mauris ac lacus convallis2',
-        description: 'Aliquam vitae velit eu felis laoreet ultricies ac ac nisl. Aenean in dolor ipsum. Donec quam est, rutrum non fermentum dictum, vehicula id dolor.',
+        title: 'Cartão MagBank',
+        description: 'Escolha o Visa com as vantagens que mais combinam com você. Descubra como ter o seu e aproveitar vários benefícios.',
         action: 'Peça já'
     },
     {
         id: 3,
         image: image3,
-        title: 'Mauris ac lacus convallis3',
-        description: 'Aliquam vitae velit eu felis laoreet ultricies ac ac nisl. Aenean in dolor ipsum. Donec quam est, rutrum non fermentum dictum, vehicula id dolor.',
+        title: 'Clientes MagBank Rewards',
+        description: 'Você irá aproveitar as vantagens do Universo Smiles. São milhas de vantagens para planejar aquela viagem incrível.',
         action: 'Peça já'
     }
 ];

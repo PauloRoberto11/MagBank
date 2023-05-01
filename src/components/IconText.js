@@ -2,7 +2,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/col";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 
-const IconText = ({icon, children, color, textClassName, size}) => {
+const IconText = ({icon, children, color, textClassName='', size=1}) => {
   return (
     <Row className='d-flex align-items-center'>
       <Col xs={size} className='d-flex justify-content-center'> 
