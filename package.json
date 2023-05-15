@@ -17,10 +17,11 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.10.0",
-    "react-scripts": "5.0.1",
+    "react-router-dom": "^6.11.1",
+    "react-scripts": "^5.0.1",
     "sass": "^1.62.0",
-    "sort-by": "^1.2.0",
+    "sort-by": "^0.0.2",
+    "surge": "^0.23.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -46,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "npm": "^9.6.5"
   }
 }
